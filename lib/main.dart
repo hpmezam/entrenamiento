@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           useMaterial3: true,
         ),
         home: AppBar(
-          title: Text("hola mundo"),
+          title: Text("hola mundo en el pc de marco"),
         ));
   }
 }
