@@ -24,10 +24,5 @@ class MyApp extends StatelessWidget {
             fontWeight: FontWeight.bold, // Grosor del texto
           ),
         ),
-        body: const Center(
-          child: Text("Hola soy Daniel Chocho"),
-        ),
-      ),
-    );
   }
 }
